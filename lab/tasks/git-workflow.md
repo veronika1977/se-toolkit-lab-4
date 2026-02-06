@@ -14,7 +14,7 @@ Outline:
 - [Create an issue](#create-an-issue)
 - [Create a branch](#create-a-branch)
   - [Create using `GitHub`](#create-using-github)
-  - [Create using `Terminal`](#create-using-terminal)
+  - [Create using the `Terminal`](#create-using-the-terminal)
   - [Create using `GitLens`](#create-using-gitlens)
 - [Make commits](#make-commits)
   - [Commit message format](#commit-message-format)
@@ -22,10 +22,10 @@ Outline:
   - [Commit using `Source Control`](#commit-using-source-control)
   - [Commit using `Source Control` (specific changes)](#commit-using-source-control-specific-changes)
 - [Publish the branch](#publish-the-branch)
-  - [Publish using `Terminal`](#publish-using-terminal)
+  - [Publish using the `Terminal`](#publish-using-the-terminal)
   - [Publish using `GitLens`](#publish-using-gitlens)
 - [Push more commits](#push-more-commits)
-  - [Push using `Terminal`](#push-using-terminal)
+  - [Push using the `Terminal`](#push-using-the-terminal)
   - [Push using `GitLens`](#push-using-gitlens)
 - [Create a PR](#create-a-pr)
 - [Get a PR review](#get-a-pr-review)
@@ -52,7 +52,7 @@ Create a new branch for the issue using one of these ways:
 1. Paste the command to the `Terminal`.
 1. Press `Enter` to run the command.
 
-### Create using `Terminal`
+### Create using the `Terminal`
 
 1. [Open the `Terminal`](../appendix/vs-code.md#open-the-terminal).
 2. [Run](../appendix/vs-code.md#run-a-command-using-the-terminal):
@@ -113,7 +113,7 @@ Common types:
 
 ## Publish the branch
 
-### Publish using `Terminal`
+### Publish using the `Terminal`
 
 1. [Open the `Terminal`](../appendix/vs-code.md#open-the-terminal).
 1. Run:
@@ -132,7 +132,7 @@ Common types:
 
 ## Push more commits
 
-### Push using `Terminal`
+### Push using the `Terminal`
 
 1. [Open the `Terminal`](../appendix/vs-code.md#open-the-terminal).
 2. Run:
