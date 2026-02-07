@@ -70,17 +70,20 @@ git config --global user.email '<your-email>'
 
 ## Open the repository on your computer
 
-1. On your computer, create a directory `software-engineering-toolkit`.
-2. In that directory, clone the lab repo.
+1. On your computer, create somewhere a directory `software-engineering-toolkit`.
+2. Open a terminal in that directory.
+3. Clone the lab repo.
 
     ```bash
     git clone https://github.com/<your-username>/lab-01-market-product-and-git
     ```
 
-3. Open the repo in `VS Code`.
+> ![IMPORTANT]
+> Replace `<your-username>` with your `GitHub` username.
+
+1. Open the repo in `VS Code`.
 
     ```bash
-    cd software-engineering-toolkit
     code lab-01-market-product-and-git
     ```
 
