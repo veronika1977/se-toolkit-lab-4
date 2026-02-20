@@ -10,7 +10,7 @@ Learn to explore an API using `Swagger UI` and authenticate with an API key.
 
 <h4>Context</h4>
 
-The service is running. Only `items` endpoints are active — `/interactions` and `/learners` don't exist yet.
+The service is running. Only `items` endpoints are active — `/interactions` and `/learners` aren't enabled yet.
 You will explore the API using `Swagger UI`, discover the API key mechanism, and observe how the service responds to different requests.
 
 <h4>Table of contents</h4>
@@ -46,8 +46,8 @@ Title: `[Task] Explore the API`
 ### 2. Start the services
 
 > [!NOTE]
-> If you already started the services during the setup, they should still be running.
-> You can skip this step.
+> If you have already [started the services during the setup](../setup.md#112-new-start-the-services), they should still be running.
+> If they're running, you can skip this step.
 
 1. [Run using the `VS Code Terminal`](../../appendix/vs-code.md#run-a-command-using-the-vs-code-terminal):
 
