@@ -642,7 +642,7 @@ Method 2:
 
 1. [Install `VS Code`](#install-vs-code)
 2. [(`Windows` only) Set up running `VS Code` in `WSL`](#windows-only-set-up-running-vs-code-in-wsl).
-3. [(`macOS` only) Add `VS Code` to `PATH`](#macos-only-add-vs-code-to-path)
+3. [(`macOS` only) Add `VS Code` to `PATH`](#macos-only-add-vs-code-to-path).
 
 ### Install `VS Code`
 
