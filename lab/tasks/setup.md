@@ -145,8 +145,7 @@
 #### 1.4.4. (`Windows` only) Install `Ubuntu 24.04` using WSL
 
 1. [Check the current shell in the `VS Code Terminal`](../../wiki/vs-code.md#check-the-current-shell-in-the-vs-code-terminal).
-2. If the shell is not `bash` or `zsh`, [set up running `VS Code` using `WSL`](../../wiki/vs-code.md#windows-only-set-up-running-vs-code-in-wsl).
-3. Check the current shell again. It should be `bash` or `zsh`.
+2. If it's not `bash` or `zsh`, [set up running `VS Code` in `WSL`](../../wiki/vs-code.md#windows-only-set-up-running-vs-code-in-wsl) and check again.
 
 #### 1.4.5. (UPD) Install `Nix`
 
@@ -161,7 +160,7 @@
 
    Skip this step if this directory exists.
 
-2. [Open in `VS Code` the directory](../../wiki/git-vscode.md#open-in-vs-code-the-directory):
+2. [Open in `VS Code` the directory](../../wiki/vs-code.md#open-the-directory):
    `software-engineering-toolkit`.
 
 ### 1.6. Set up `Git`
@@ -195,7 +194,7 @@
 
 #### 1.7.3. (UPD) Open the cloned repo in `VS Code`
 
-1. [Open in `VS Code` the directory](../../wiki/git-vscode.md#open-in-vs-code-the-directory):
+1. [Open in `VS Code` the directory](../../wiki/vs-code.md#open-the-directory):
    `se-toolkit-lab-4`.
 2. [Install recommended extensions](../../wiki/vs-code.md#install-recommended-extensions).
 
